@@ -1,3 +1,38 @@
+# E-Commerce Sales Dashboard
+
+This project analyzes e-commerce sales data using SQL and Tableau.
+
+## Tools Used
+- SQL (SQLite)
+- Tableau Public
+- GitHub
+
+## Dashboard Features
+- Monthly Revenue Trend
+- Revenue by Category
+- Top Customers
+- Interactive Filters
+
+## SQL Concepts Used
+- Joins
+- Aggregations
+- GROUP BY / HAVING
+- CTEs
+- Subqueries
+- DENSE_RANK()
+
+## Project Structure
+- Data files
+- SQL analysis queries
+- Tableau dashboard
+- Dashboard screenshots
+
+
+
+
+
+
+
 Top 10 Customers by Total Spending
 
 This analysis identifies the highest-value customers based on cumulative purchase amounts. The results can help businesses target loyalty programs, retention strategies, and personalized marketing campaigns toward their most profitable customers.
