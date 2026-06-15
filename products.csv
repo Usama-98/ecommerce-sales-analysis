@@ -1,0 +1,26 @@
+product_id,product_name,category,price
+101,Laptop,Electronics,1200
+102,Headphones,Electronics,150
+103,Monitor,Electronics,300
+104,Keyboard,Electronics,80
+105,Mouse,Electronics,40
+106,Tablet,Electronics,500
+107,Desk,Furniture,400
+108,Office Chair,Furniture,250
+109,Coffee Table,Furniture,220
+110,Bookshelf,Furniture,180
+111,Printer,Electronics,200
+112,Webcam,Electronics,90
+113,Microphone,Electronics,110
+114,Smart Watch,Electronics,350
+115,Phone,Electronics,900
+116,Lamp,Home,60
+117,Rug,Home,120
+118,Couch,Furniture,900
+119,TV,Electronics,1000
+120,Speaker,Electronics,180
+121,Notebook,Office,10
+122,Pen Set,Office,15
+123,Backpack,Accessories,70
+124,SSD,Electronics,130
+125,Router,Electronics,140
